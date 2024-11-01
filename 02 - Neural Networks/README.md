@@ -281,7 +281,3 @@ The notebook effectively demonstrates:
 
 - A trained feed-forward neural network model capable of classifying fashion items into 10 categories with reasonable accuracy.
 - A `results.csv` file containing the predicted labels for the evaluation dataset.
-
----
-
-**Note**: While convolutional neural networks were acknowledged as more suitable for image data, constraints such as computational resources or assignment scope may have limited their implementation in this notebook. The focus remained on optimizing a feed-forward neural network for the given task.

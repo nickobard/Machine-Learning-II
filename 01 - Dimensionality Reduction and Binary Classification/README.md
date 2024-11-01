@@ -87,7 +87,6 @@ The notebook addresses the task of classifying images into two categories: **Tro
 - **Findings**:
     - **190 Components** have near-zero variance and could be removed without significant loss of information.
 - **Outcome**:
-    - Despite identifying redundant features, the best performance was achieved without dimensionality reduction.
     - Did not proceed with applying models on PCA-reduced data, focusing instead on the original feature set.
 
 ---
@@ -183,7 +182,3 @@ The notebook successfully demonstrates the process of:
 
 5 directories, 17 files
 ```
-
----
-
-This summary encapsulates the key steps, methodologies, and findings of the notebook, highlighting the rationale behind model selection and the effectiveness of SVM in handling high-dimensional image data for binary classification.
